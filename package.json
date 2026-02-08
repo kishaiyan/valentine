@@ -2,7 +2,7 @@
   "name": "bun-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/<reponame>",
+  "homepage": "https://kishaiyan.github.io/valentine",
   "type": "module",
   "scripts": {
     "dev": "bun --hot src/index.ts",
